@@ -1,2 +1,2 @@
 # Tema10GITHUBDESKTOP
- TEma 10 para probar Github Desktop
+ Tema 10, para probar Github Desktop
