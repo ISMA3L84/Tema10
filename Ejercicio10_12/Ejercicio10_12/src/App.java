@@ -14,7 +14,8 @@ public class App {
         System.out.println("Introduce tu nombre: ");
         String nombre = sc.next();
         System.out.println("Introduzca su edad: ");
-        int edad = sc.nextInt();
+  
+        int a = 2;
         
     }
 }
